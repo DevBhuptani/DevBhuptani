@@ -1,7 +1,7 @@
 - Hi there 👋 I'm Dev
 - I’m currently working on something cool.
 - I’m currently learning Web Developer.
-- Student at Silveroak University.
+- Student at Silver Oak University.
 - Love to solve real world problems.
 
 <!---
